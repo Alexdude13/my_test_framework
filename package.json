@@ -1,0 +1,22 @@
+{
+  "name": "my_test_framework",
+  "version": "1.0.0",
+  "description": "My test framewortk v1",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexdude13/my_test_framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexdude13/my_test_framework/issues"
+  },
+  "homepage": "https://github.com/Alexdude13/my_test_framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.3"
+  }
+}
